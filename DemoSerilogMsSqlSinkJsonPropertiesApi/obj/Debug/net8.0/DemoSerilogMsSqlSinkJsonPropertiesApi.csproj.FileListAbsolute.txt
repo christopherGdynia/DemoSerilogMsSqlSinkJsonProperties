@@ -96,3 +96,4 @@ C:\Users\A105227211\source\repos\DemoSerilogMsSqlSinkJsonProperties\DemoSerilogM
 C:\Users\A105227211\source\repos\DemoSerilogMsSqlSinkJsonProperties\DemoSerilogMsSqlSinkJsonPropertiesApi\obj\Debug\net8.0\DemoSerilogMsSqlSinkJsonPropertiesApi.pdb
 C:\Users\A105227211\source\repos\DemoSerilogMsSqlSinkJsonProperties\DemoSerilogMsSqlSinkJsonPropertiesApi\obj\Debug\net8.0\DemoSerilogMsSqlSinkJsonPropertiesApi.genruntimeconfig.cache
 C:\Users\A105227211\source\repos\DemoSerilogMsSqlSinkJsonProperties\DemoSerilogMsSqlSinkJsonPropertiesApi\obj\Debug\net8.0\ref\DemoSerilogMsSqlSinkJsonPropertiesApi.dll
+C:\Users\A105227211\source\repos\DemoSerilogMsSqlSinkJsonProperties\DemoSerilogMsSqlSinkJsonPropertiesApi\obj\Debug\net8.0\DemoSerilogMsSqlSinkJsonPropertiesApi.sourcelink.json

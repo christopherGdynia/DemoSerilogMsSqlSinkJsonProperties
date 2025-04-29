@@ -24,6 +24,13 @@ app.UseSerilogRequestLogging(
             HttpContext httpContext
         )
         {
+            diagnosticContext.Set(
+                "TraceId",
+                System.Diagnostics.Activity.Current?.Id
+                    ?? httpContext?.TraceIdentifier
+                    ?? string.Empty
+            );
+
             Endpoint? endpoint = httpContext.GetEndpoint();
             if (endpoint is null)
                 return;

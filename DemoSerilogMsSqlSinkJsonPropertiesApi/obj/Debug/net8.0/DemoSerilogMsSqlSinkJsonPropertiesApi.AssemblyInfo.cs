@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoSerilogMsSqlSinkJsonPropertiesApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b9daf751b2329e39d16f672413ad1b46a093f19")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoSerilogMsSqlSinkJsonPropertiesApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoSerilogMsSqlSinkJsonPropertiesApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
