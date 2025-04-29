@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iwLfS9+Go9omvnfrlYTXSL1/jp7xMKRlBitU+Z3AQJs=",
+  "Source": "DemoSerilogMsSqlSinkJsonPropertiesApi",
+  "BasePath": "_content/DemoSerilogMsSqlSinkJsonPropertiesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

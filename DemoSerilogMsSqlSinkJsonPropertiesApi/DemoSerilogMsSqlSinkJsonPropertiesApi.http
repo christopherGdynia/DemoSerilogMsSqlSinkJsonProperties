@@ -1,0 +1,6 @@
+@DemoSerilogMsSqlSinkJsonPropertiesApi_HostAddress = http://localhost:5034
+
+GET {{DemoSerilogMsSqlSinkJsonPropertiesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
